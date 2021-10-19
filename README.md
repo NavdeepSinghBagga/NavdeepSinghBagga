@@ -47,7 +47,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working as Research Assistant at [HAEGL Technologies PVT LTD](https://haegl.in/).
 - 🌱 I’m currently looking for opportunities in Software Development and Software Engineering Positions.
-- 🤔 Graduating in 2022.
+- 🎓 Graduating in 2022.
 - 💬 Ask me about DS Algo, Deep Learning or any tech-related stuff.
 - 📫 How to reach me: [Linkedin - @navdeep-singh-bagga](https://www.linkedin.com/in/navdeep-singh-bagga/) , [Instagram - @bagga_nav](https://www.instagram.com/bagga_nav/)
 - 😄 Pronouns: He/His
