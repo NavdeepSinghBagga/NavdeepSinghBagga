@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <br/>
 
 
-- 🔭 I’m currently working as Research Assistant at [HAEGL Technologies PVT LTD](https://haegl.org/).
+- 🔭 I’m currently working as Research Assistant at [HAEGL Technologies PVT LTD](https://haegl.in/).
 - 🌱 I’m currently looking for opportunities in Software Development and Software Engineering Positions.
 - 🤔 Graduating in 2022.
 - 💬 Ask me about DS Algo, Deep Learning or any tech-related stuff.
