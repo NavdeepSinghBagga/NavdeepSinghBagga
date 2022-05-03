@@ -45,7 +45,9 @@ Here are some ideas to get you started:
 <br/>
 
 
-- 🔭 I’m currently working as Research Assistant at [HAEGL Technologies PVT LTD](https://haegl.in/).
+- 🔭 I’m currently working as an **Intern** at [Informatica Business Solutions](https://www.informatica.com/in/).
+- 💻 Workign on Tech-stacks like **Java SpringBoot and Hibernate**.
+- 🔭 Previously i've worked as **Research Engineer Intern** for **6 Months** at [HAEGL Technologies PVT LTD](https://haegl.in/).
 - 🌱 I’m currently looking for opportunities in Software Development and Software Engineering Positions.
 - 🎓 Graduating in 2022.
 - 💬 Ask me about DS Algo, Deep Learning or any tech-related stuff.
