@@ -34,22 +34,22 @@ Here are some ideas to get you started:
 <a href="https://instagram.com/bagga_nav/">
   <img align="left" alt="Navdeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.facebook.com/">
+<!-- <a href="https://www.facebook.com/">
   <img align="left" alt="Navdeeps's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/hai_hi_nhi/">
-  <img align="left" alt="Navdeep's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a> -->
+<!-- <a href="https://www.youtube.com/hai_hi_nhi/">
+  <img align="left" alt="Navdeep's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" /> -->
 </a>
 
 <br/>
 <br/>
 
-
-- 🔭 I’m currently working as an **Intern** at [Informatica Business Solutions](https://www.informatica.com/in/).
-- 💻 Workign on Tech-stacks like **Java SpringBoot and Hibernate**.
-- 🔭 Previously i've worked as **Research Engineer Intern** for **6 Months** at [HAEGL Technologies PVT LTD](https://haegl.in/).
+- 💻 **Software Engineer** at [*IBM India Systems Development Lab*](https://www.ibm.com/).
+- ⌨️ Working with Storage division and contributing to the development of [*IBM Storage Defender*](https://www.ibm.com/products/storage-defender)
+- 💻 Previously **Interned** at [Informatica Business Solutions](https://www.informatica.com/in/) and worked on Tech-stacks like **Java SpringBoot and Hibernate**.
+- 🔭 Also worked as **Research Engineer Intern** for **6 Months** at [HAEGL Technologies PVT LTD](https://haegl.in/). Got the opportunity to interact directly to the stakeholders and developed multiple products revolving around AI-ML and Computer Vision.
 - 🌱 I’m currently looking for opportunities in Software Development and Software Engineering Positions.
-- 🎓 Graduating in 2022.
+- 🎓 Completed my Graduation in Computer Science and Engineering from [KLE Technilogical University](https://www.kletech.ac.in/) in the year 2022.
 - 💬 Ask me about DS Algo, Deep Learning or any tech-related stuff.
 - 📫 How to reach me: [Linkedin - @navdeep-singh-bagga](https://www.linkedin.com/in/navdeep-singh-bagga/) , [Instagram - @bagga_nav](https://www.instagram.com/bagga_nav/)
 - 😄 Pronouns: He/His
