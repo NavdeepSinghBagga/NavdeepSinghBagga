@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hello there, I'm [Navdeep Singh Bagga!](https://www.linkedin.com/in/navdeep-singh-bagga/) 👋
+## Hello there, I'm [Navdeep Singh Bagga!](https://www.linkedin.com/in/nav-bagga/) 👋
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NavdeepSinghBagga&label=Views&color=blue&style=plastic" alt="NavdeepSinghBagga" /> </p>
 
 <!-- <a href="https://twitter.com/">
   <img align="left" alt="Navdeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
-<a href="https://www.linkedin.com/in/navdeep-singh-bagga/">
+<a href="https://www.linkedin.com/in/nav-bagga/">
   <img align="left" alt="Navdeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/NavdeepSinghBagga">
@@ -51,12 +51,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently looking for opportunities in Software Development and Software Engineering Positions.
 - 🎓 Completed my Graduation in Computer Science and Engineering from [KLE Technilogical University](https://www.kletech.ac.in/) in the year 2022.
 - 💬 Ask me about DS Algo, Deep Learning or any tech-related stuff.
-- 📫 How to reach me: [Linkedin - @navdeep-singh-bagga](https://www.linkedin.com/in/navdeep-singh-bagga/) , [Instagram - @bagga_nav](https://www.instagram.com/bagga_nav/)
+- 📫 How to reach me: [Linkedin - @nav-bagga](https://www.linkedin.com/in/nav-bagga/) , [Instagram - @bagga_nav](https://www.instagram.com/bagga_nav/)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend most of my time in Coding, Reading and [Chess](https://lichess.org/@/bagga_nav)
 
 <!-- [![Twitter: <username>](https://img.shields.io/twitter/follow/<username>?style=social)](https://twitter.com/) -->
-[![Linkedin: Navdeep Singh Bagga](https://img.shields.io/badge/-NavdeepSinghBagga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/navdeep-singh-bagga/)](https://www.linkedin.com/in/navdeep-singh-bagga/)
+[![Linkedin: Navdeep Singh Bagga](https://img.shields.io/badge/-NavdeepSinghBagga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nav-bagga/)](https://www.linkedin.com/in/nav-bagga/)
 [![GitHub NavdeepSinghBagga](https://img.shields.io/github/followers/NavdeepSinghBagga?label=follow&style=social)](https://github.com/NavdeepSinghBagga)
 <!-- [![website](https://img.shields.io/badge/PortfolioWebsite-<website_link>-2648ff?style=flat-square&logo=google-chrome)](https://link.com/) -->
 
